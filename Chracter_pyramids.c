@@ -10,12 +10,12 @@ int main(){
 
     for(i=0 ; i<row ; i++){
         for(j=1 ; j<row-i ;j++){
-            printf(" ");
+            printf("Enter the number ");
         }
         for(j=0 ; j<=i ; j++){
             printf("%c ",c);
         }
-    printf("\n");
+    printf("Enter the value of j\n");
     }
 
 
